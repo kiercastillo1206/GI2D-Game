@@ -1,0 +1,2652 @@
+fileFormatVersion: 2
+guid: 5647feb1b8c4db341a27f93dfa675d20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1472208496885352810
+    second: Cheto Sprite_0
+  - first:
+      213: -7230824920584064651
+    second: Cheto Sprite_1
+  - first:
+      213: -5383564867298982028
+    second: Cheto Sprite_2
+  - first:
+      213: 887113506105869470
+    second: Cheto Sprite_3
+  - first:
+      213: -3383148678638197911
+    second: Cheto Sprite_4
+  - first:
+      213: -4663154528899155481
+    second: Cheto Sprite_5
+  - first:
+      213: 334056514280044575
+    second: Cheto Sprite_6
+  - first:
+      213: 5816468867423853521
+    second: Cheto Sprite_7
+  - first:
+      213: 7439560227651047285
+    second: Cheto Sprite_8
+  - first:
+      213: 7842056187045497616
+    second: Cheto Sprite_9
+  - first:
+      213: 6577576569082096985
+    second: Cheto Sprite_10
+  - first:
+      213: 2931618258149619416
+    second: Cheto Sprite_11
+  - first:
+      213: 3384427255199604157
+    second: Cheto Sprite_12
+  - first:
+      213: 243689576536266967
+    second: Cheto Sprite_13
+  - first:
+      213: -4860453181003438126
+    second: Cheto Sprite_14
+  - first:
+      213: -8560182936820340926
+    second: Cheto Sprite_15
+  - first:
+      213: 6949532526241257105
+    second: Cheto Sprite_16
+  - first:
+      213: -4495892757556708595
+    second: Cheto Sprite_17
+  - first:
+      213: 2362676621858412964
+    second: Cheto Sprite_18
+  - first:
+      213: -4626081479144766686
+    second: Cheto Sprite_19
+  - first:
+      213: 9019262503684304237
+    second: Cheto Sprite_20
+  - first:
+      213: 3857537397884227568
+    second: Cheto Sprite_21
+  - first:
+      213: 5628766676983841418
+    second: Cheto Sprite_22
+  - first:
+      213: -3145455188984400937
+    second: Cheto Sprite_23
+  - first:
+      213: 1725135022673138649
+    second: Cheto Sprite_24
+  - first:
+      213: 1121423456043034008
+    second: Cheto Sprite_25
+  - first:
+      213: 8768079318951009491
+    second: Cheto Sprite_26
+  - first:
+      213: -5721008852652058142
+    second: Cheto Sprite_27
+  - first:
+      213: -2506480345301019235
+    second: Cheto Sprite_28
+  - first:
+      213: -9034406498180848202
+    second: Cheto Sprite_29
+  - first:
+      213: 8385670649366853794
+    second: Cheto Sprite_30
+  - first:
+      213: -6622667568893914472
+    second: Cheto Sprite_31
+  - first:
+      213: -1320673206565590844
+    second: Cheto Sprite_32
+  - first:
+      213: 2054492470768619
+    second: Cheto Sprite_33
+  - first:
+      213: -4093550470299326737
+    second: Cheto Sprite_34
+  - first:
+      213: 2989171968460728497
+    second: Cheto Sprite_35
+  - first:
+      213: -7489890541121196205
+    second: Cheto Sprite_36
+  - first:
+      213: -911190581210628023
+    second: Cheto Sprite_37
+  - first:
+      213: 7133777692468191243
+    second: Cheto Sprite_38
+  - first:
+      213: -1977303734636323857
+    second: Cheto Sprite_39
+  - first:
+      213: -4946935693820876884
+    second: Cheto Sprite_40
+  - first:
+      213: 4246617550620038168
+    second: Cheto Sprite_41
+  - first:
+      213: 2568780422824940282
+    second: Cheto Sprite_42
+  - first:
+      213: 4365334309709412805
+    second: Cheto Sprite_43
+  - first:
+      213: -6871310881404727504
+    second: Cheto Sprite_44
+  - first:
+      213: 7783419207859177105
+    second: Cheto Sprite_45
+  - first:
+      213: 1305051375673211485
+    second: Cheto Sprite_46
+  - first:
+      213: -527326277001667543
+    second: Cheto Sprite_47
+  - first:
+      213: 8555677576121827256
+    second: Cheto Sprite_48
+  - first:
+      213: -3062504052665881430
+    second: Cheto Sprite_49
+  - first:
+      213: -8680786755886662072
+    second: Cheto Sprite_50
+  - first:
+      213: 5355208820034705089
+    second: Cheto Sprite_51
+  - first:
+      213: 4490398147215092879
+    second: Cheto Sprite_52
+  - first:
+      213: -3157161134537024499
+    second: Cheto Sprite_53
+  - first:
+      213: -3044737417891605554
+    second: Cheto Sprite_54
+  - first:
+      213: -3923443873175243463
+    second: Cheto Sprite_55
+  - first:
+      213: -2652491945024042541
+    second: Cheto Sprite_56
+  - first:
+      213: 6308943065767859781
+    second: Cheto Sprite_57
+  - first:
+      213: 7206738954621903256
+    second: Cheto Sprite_58
+  - first:
+      213: -4846843270431517649
+    second: Cheto Sprite_59
+  - first:
+      213: -4493039573605574694
+    second: Cheto Sprite_60
+  - first:
+      213: 3486935139067150066
+    second: Cheto Sprite_61
+  - first:
+      213: 2414220060716256309
+    second: Cheto Sprite_62
+  - first:
+      213: 8159583577425704988
+    second: Cheto Sprite_63
+  - first:
+      213: 2552170149550469076
+    second: Cheto Sprite_64
+  - first:
+      213: 5659951440755652537
+    second: Cheto Sprite_65
+  - first:
+      213: 227579306112235029
+    second: Cheto Sprite_66
+  - first:
+      213: -2158607606789659463
+    second: Cheto Sprite_67
+  - first:
+      213: 1894397745542538954
+    second: Cheto Sprite_68
+  - first:
+      213: -7291380950787300590
+    second: Cheto Sprite_69
+  - first:
+      213: -5241366309107260201
+    second: Cheto Sprite_70
+  - first:
+      213: 3975804372450923216
+    second: Cheto Sprite_71
+  - first:
+      213: 6563972845065738572
+    second: Cheto Sprite_72
+  - first:
+      213: -6972790788389245053
+    second: Cheto Sprite_73
+  - first:
+      213: -6385070796626975008
+    second: Cheto Sprite_74
+  - first:
+      213: -1415664764502880569
+    second: Cheto Sprite_75
+  - first:
+      213: 8277567903087540846
+    second: Cheto Sprite_76
+  - first:
+      213: -7209379267629158283
+    second: Cheto Sprite_77
+  - first:
+      213: -838994294612722472
+    second: Cheto Sprite_78
+  - first:
+      213: -869726733974905015
+    second: Cheto Sprite_79
+  - first:
+      213: -1275608549050012476
+    second: Cheto Sprite_80
+  - first:
+      213: 6420609425377476794
+    second: Cheto Sprite_81
+  - first:
+      213: -328616781589018293
+    second: Cheto Sprite_82
+  - first:
+      213: -2046461846137283690
+    second: Cheto Sprite_83
+  - first:
+      213: 3045467914532214805
+    second: Cheto Sprite_84
+  - first:
+      213: 7298581648464152065
+    second: Cheto Sprite_85
+  - first:
+      213: -469476901470772885
+    second: Cheto Sprite_86
+  - first:
+      213: -5818596308639935524
+    second: Cheto Sprite_87
+  - first:
+      213: 755971194584590533
+    second: Cheto Sprite_88
+  - first:
+      213: -3861756397176276151
+    second: Cheto Sprite_89
+  - first:
+      213: -2548472326254824130
+    second: Cheto Sprite_90
+  - first:
+      213: 893557166012535415
+    second: Cheto Sprite_91
+  - first:
+      213: -5231552300283548820
+    second: Cheto Sprite_92
+  - first:
+      213: 5103470872016063081
+    second: Cheto Sprite_93
+  - first:
+      213: 4651255497397332672
+    second: Cheto Sprite_94
+  - first:
+      213: 5985987305210405310
+    second: Cheto Sprite_95
+  - first:
+      213: -6949667691397306999
+    second: Cheto Sprite_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cheto Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 700
+        width: 119
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69c92ce3d55e6410800000000000000
+      internalID: 1472208496885352810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 784
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5717b879b03f6ab90800000000000000
+      internalID: -7230824920584064651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 786
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4770f5bc64cb945b0800000000000000
+      internalID: -5383564867298982028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 700
+        width: 118
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9444ee9809af4c00800000000000000
+      internalID: 887113506105869470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 784
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96320739334ac01d0800000000000000
+      internalID: -3383148678638197911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 784
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9363499a5294fb0800000000000000
+      internalID: -4663154528899155481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 783
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18319c31aec2a400800000000000000
+      internalID: 334056514280044575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 701
+        width: 119
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbdae13e9f38b050800000000000000
+      internalID: 5816468867423853521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 783
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fc34e4c90ae3760800000000000000
+      internalID: 7439560227651047285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 700
+        width: 118
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b40899d8494dc60800000000000000
+      internalID: 7842056187045497616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 784
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d22134a0f384b50800000000000000
+      internalID: 6577576569082096985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 784
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6be0ef5433fa820800000000000000
+      internalID: 2931618258149619416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 764
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd925a38a6e7fe20800000000000000
+      internalID: 3384427255199604157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 764
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8d8e4f062c16300800000000000000
+      internalID: 243689576536266967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d76fda65933c8cb0800000000000000
+      internalID: -4860453181003438126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 762
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247a67609fe143980800000000000000
+      internalID: -8560182936820340926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 764
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19612ad2303b17060800000000000000
+      internalID: 6949532526241257105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 535
+        width: 120
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bb4957b516b91c0800000000000000
+      internalID: -4495892757556708595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 617
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a99dfc9ed9e9c020800000000000000
+      internalID: 2362676621858412964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 532
+        width: 120
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223009d976bdccfb0800000000000000
+      internalID: -4626081479144766686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 619
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d6a14067bda2d70800000000000000
+      internalID: 9019262503684304237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 544
+        width: 122
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff8ca443d9b88530800000000000000
+      internalID: 3857537397884227568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 624
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a828d2168756d1e40800000000000000
+      internalID: 5628766676983841418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 626
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3fca3cb291954d0800000000000000
+      internalID: -3145455188984400937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 621
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d39408b929e0f710800000000000000
+      internalID: 1725135022673138649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 535
+        width: 118
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8956c3411b8109f00800000000000000
+      internalID: 1121423456043034008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 622
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc16807fa97ea970800000000000000
+      internalID: 8768079318951009491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 614
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e91fcc72c4ea90b0800000000000000
+      internalID: -5721008852652058142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 617
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9595d5e761373dd0800000000000000
+      internalID: -2506480345301019235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 596
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5237ff7275f9280800000000000000
+      internalID: -9034406498180848202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 596
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a83ee2c603ef5470800000000000000
+      internalID: 8385670649366853794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 603
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892149a3fee8714a0800000000000000
+      internalID: -6622667568893914472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 600
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8284247b60cade0800000000000000
+      internalID: -1320673206565590844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 356
+        width: 119
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3f9edcc8c470000800000000000000
+      internalID: 2054492470768619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 403
+        width: 124
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6ecab2989c037c0800000000000000
+      internalID: -4093550470299326737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 482
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b828a8611cab7920800000000000000
+      internalID: 2989171968460728497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 483
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fa9e96c309e0890800000000000000
+      internalID: -7489890541121196205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 356
+        width: 119
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940424c7efcca53f0800000000000000
+      internalID: -911190581210628023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 342
+        width: 124
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b002c22d305400360800000000000000
+      internalID: 7133777692468191243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 461
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febd2f3cab43f84e0800000000000000
+      internalID: -1977303734636323857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 468
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca72b1b4234f85bb0800000000000000
+      internalID: -4946935693820876884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 458
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81495a9a9240fea30800000000000000
+      internalID: 4246617550620038168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 460
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af255704f2426a320800000000000000
+      internalID: 2568780422824940282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 467
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9fd081d68c49c30800000000000000
+      internalID: 4365334309709412805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 342
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f489cb82334a0a0800000000000000
+      internalID: -6871310881404727504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 436
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196066ef782440c60800000000000000
+      internalID: 7783419207859177105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 446
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5af2accf497c1210800000000000000
+      internalID: 1305051375673211485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 445
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c16928b8f8ea8f0800000000000000
+      internalID: -527326277001667543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 423
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf3481fc6fdbb670800000000000000
+      internalID: 8555677576121827256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 424
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aace7a93acccf75d0800000000000000
+      internalID: -3062504052665881430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 423
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eb5743076a78780800000000000000
+      internalID: -8680786755886662072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 424
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c615387c06815a40800000000000000
+      internalID: 5355208820034705089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 399
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ce3d0e259115e30800000000000000
+      internalID: 4490398147215092879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 403
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c504deca28f24d0800000000000000
+      internalID: -3157161134537024499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 399
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec31b3c337beeb5d0800000000000000
+      internalID: -3044737417891605554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 181
+        width: 147
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935f43ba5902d89c0800000000000000
+      internalID: -3923443873175243463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 256
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9c14721a4703bd0800000000000000
+      internalID: -2652491945024042541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 185
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546d147ca4edd8750800000000000000
+      internalID: 6308943065767859781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 250
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891653375ea730460800000000000000
+      internalID: 7206738954621903256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 198
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24dfe7a9bd8cbcb0800000000000000
+      internalID: -4846843270431517649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 246
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7977d105485a1c0800000000000000
+      internalID: -4493039573605574694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 185
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2febceec805146030800000000000000
+      internalID: 3486935139067150066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 234
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c4d98aa58018120800000000000000
+      internalID: 2414220060716256309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 225
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18f197480aac3170800000000000000
+      internalID: 8159583577425704988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 229
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfaf42aa312b6320800000000000000
+      internalID: 2552170149550469076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 234
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7733009df2c8e40800000000000000
+      internalID: 5659951440755652537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 218
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516bc035c26882300800000000000000
+      internalID: 227579306112235029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 24
+        width: 119
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4a8d381d51b02e0800000000000000
+      internalID: -2158607606789659463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac62d5e66b04a4a10800000000000000
+      internalID: 1894397745542538954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 110
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213e54a18afcfca90800000000000000
+      internalID: -7291380950787300590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 24
+        width: 124
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d426ff9c1de247b0800000000000000
+      internalID: -5241366309107260201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 105
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2d1641305ec2730800000000000000
+      internalID: 3975804372450923216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 106
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c491471768ae71b50800000000000000
+      internalID: 6563972845065738572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 24
+        width: 125
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f61fca8bbab3f90800000000000000
+      internalID: -6972790788389245053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 105
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e62455a0fba367a0800000000000000
+      internalID: -6385070796626975008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 106
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cec4cea56c8a5ce0800000000000000
+      internalID: -1415664764502880569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 24
+        width: 125
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a35b3c624dfd270800000000000000
+      internalID: 8277567903087540846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 105
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570f5e5c0c323fb90800000000000000
+      internalID: -7209379267629158283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 106
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc770d522b4b54f0800000000000000
+      internalID: -838994294612722472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 21
+        width: 125
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fd3c9b42c1ee3f0800000000000000
+      internalID: -869726733974905015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 103
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc2c6978c02c4ee0800000000000000
+      internalID: -1275608549050012476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 17
+        width: 125
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0462921469a1950800000000000000
+      internalID: 6420609425377476794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 102
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49872a37c4807bf0800000000000000
+      internalID: -328616781589018293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 98
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bd8962bc18993e0800000000000000
+      internalID: -2046461846137283690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 99
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518da84ceeca34a20800000000000000
+      internalID: 3045467914532214805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 88
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10604e8f655c94560800000000000000
+      internalID: 7298581648464152065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 88
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b616599de351c79f0800000000000000
+      internalID: -469476901470772885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 81
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd31e1c4c71304fa0800000000000000
+      internalID: -5818596308639935524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 85
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c864a1dbcfbd7a00800000000000000
+      internalID: 755971194584590533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b37396409486ac0800000000000000
+      internalID: -3861756397176276151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 83
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35faa1fbe102acd0800000000000000
+      internalID: -2548472326254824130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7729eaa128d866c00800000000000000
+      internalID: 893557166012535415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 83
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ba8bd96eac567b0800000000000000
+      internalID: -5231552300283548820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 80
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a021008bb23d640800000000000000
+      internalID: 5103470872016063081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 77
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca63f14b349c8040800000000000000
+      internalID: 4651255497397332672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 73
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1601d2dbf721350800000000000000
+      internalID: 5985987305210405310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheto Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 76
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985214b3e02dd8f90800000000000000
+      internalID: -6949667691397306999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cheto Sprite_0: 1472208496885352810
+      Cheto Sprite_1: -7230824920584064651
+      Cheto Sprite_10: 6577576569082096985
+      Cheto Sprite_11: 2931618258149619416
+      Cheto Sprite_12: 3384427255199604157
+      Cheto Sprite_13: 243689576536266967
+      Cheto Sprite_14: -4860453181003438126
+      Cheto Sprite_15: -8560182936820340926
+      Cheto Sprite_16: 6949532526241257105
+      Cheto Sprite_17: -4495892757556708595
+      Cheto Sprite_18: 2362676621858412964
+      Cheto Sprite_19: -4626081479144766686
+      Cheto Sprite_2: -5383564867298982028
+      Cheto Sprite_20: 9019262503684304237
+      Cheto Sprite_21: 3857537397884227568
+      Cheto Sprite_22: 5628766676983841418
+      Cheto Sprite_23: -3145455188984400937
+      Cheto Sprite_24: 1725135022673138649
+      Cheto Sprite_25: 1121423456043034008
+      Cheto Sprite_26: 8768079318951009491
+      Cheto Sprite_27: -5721008852652058142
+      Cheto Sprite_28: -2506480345301019235
+      Cheto Sprite_29: -9034406498180848202
+      Cheto Sprite_3: 887113506105869470
+      Cheto Sprite_30: 8385670649366853794
+      Cheto Sprite_31: -6622667568893914472
+      Cheto Sprite_32: -1320673206565590844
+      Cheto Sprite_33: 2054492470768619
+      Cheto Sprite_34: -4093550470299326737
+      Cheto Sprite_35: 2989171968460728497
+      Cheto Sprite_36: -7489890541121196205
+      Cheto Sprite_37: -911190581210628023
+      Cheto Sprite_38: 7133777692468191243
+      Cheto Sprite_39: -1977303734636323857
+      Cheto Sprite_4: -3383148678638197911
+      Cheto Sprite_40: -4946935693820876884
+      Cheto Sprite_41: 4246617550620038168
+      Cheto Sprite_42: 2568780422824940282
+      Cheto Sprite_43: 4365334309709412805
+      Cheto Sprite_44: -6871310881404727504
+      Cheto Sprite_45: 7783419207859177105
+      Cheto Sprite_46: 1305051375673211485
+      Cheto Sprite_47: -527326277001667543
+      Cheto Sprite_48: 8555677576121827256
+      Cheto Sprite_49: -3062504052665881430
+      Cheto Sprite_5: -4663154528899155481
+      Cheto Sprite_50: -8680786755886662072
+      Cheto Sprite_51: 5355208820034705089
+      Cheto Sprite_52: 4490398147215092879
+      Cheto Sprite_53: -3157161134537024499
+      Cheto Sprite_54: -3044737417891605554
+      Cheto Sprite_55: -3923443873175243463
+      Cheto Sprite_56: -2652491945024042541
+      Cheto Sprite_57: 6308943065767859781
+      Cheto Sprite_58: 7206738954621903256
+      Cheto Sprite_59: -4846843270431517649
+      Cheto Sprite_6: 334056514280044575
+      Cheto Sprite_60: -4493039573605574694
+      Cheto Sprite_61: 3486935139067150066
+      Cheto Sprite_62: 2414220060716256309
+      Cheto Sprite_63: 8159583577425704988
+      Cheto Sprite_64: 2552170149550469076
+      Cheto Sprite_65: 5659951440755652537
+      Cheto Sprite_66: 227579306112235029
+      Cheto Sprite_67: -2158607606789659463
+      Cheto Sprite_68: 1894397745542538954
+      Cheto Sprite_69: -7291380950787300590
+      Cheto Sprite_7: 5816468867423853521
+      Cheto Sprite_70: -5241366309107260201
+      Cheto Sprite_71: 3975804372450923216
+      Cheto Sprite_72: 6563972845065738572
+      Cheto Sprite_73: -6972790788389245053
+      Cheto Sprite_74: -6385070796626975008
+      Cheto Sprite_75: -1415664764502880569
+      Cheto Sprite_76: 8277567903087540846
+      Cheto Sprite_77: -7209379267629158283
+      Cheto Sprite_78: -838994294612722472
+      Cheto Sprite_79: -869726733974905015
+      Cheto Sprite_8: 7439560227651047285
+      Cheto Sprite_80: -1275608549050012476
+      Cheto Sprite_81: 6420609425377476794
+      Cheto Sprite_82: -328616781589018293
+      Cheto Sprite_83: -2046461846137283690
+      Cheto Sprite_84: 3045467914532214805
+      Cheto Sprite_85: 7298581648464152065
+      Cheto Sprite_86: -469476901470772885
+      Cheto Sprite_87: -5818596308639935524
+      Cheto Sprite_88: 755971194584590533
+      Cheto Sprite_89: -3861756397176276151
+      Cheto Sprite_9: 7842056187045497616
+      Cheto Sprite_90: -2548472326254824130
+      Cheto Sprite_91: 893557166012535415
+      Cheto Sprite_92: -5231552300283548820
+      Cheto Sprite_93: 5103470872016063081
+      Cheto Sprite_94: 4651255497397332672
+      Cheto Sprite_95: 5985987305210405310
+      Cheto Sprite_96: -6949667691397306999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
