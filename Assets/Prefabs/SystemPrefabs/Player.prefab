@@ -64,6 +64,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 8168229007054694109, guid: 4a2fdd3cfdd274820a716e4d9599ea72, type: 3}
+      propertyPath: jumpSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 144df5d8625827549977ec95353bb2f4, type: 3}
+    - target: {fileID: 8168229007054694109, guid: 4a2fdd3cfdd274820a716e4d9599ea72, type: 3}
+      propertyPath: deathSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 7fd76f58fd8934199a35b11bd2fb4fcc, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
